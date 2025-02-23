@@ -101,7 +101,3 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 For any issues or questions, please open an issue on the [GitHub repository](https://github.com/yourusername/note-manager/issues).
 
 ---
-
-## 🖥️ Screenshots
-
-### Main Menu
