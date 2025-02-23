@@ -66,7 +66,7 @@ All notes are stored in the `notes/` directory within the project root. Each not
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/note-manager.git
+   https://github.com/commonrover64/ByteNote.git
    ```
 2. Navigate to the project directory:
    ```bash
