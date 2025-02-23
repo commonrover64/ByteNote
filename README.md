@@ -4,6 +4,11 @@ A simple Java-based command-line application for managing text notes. Create, se
 
 ---
 
+## **Coming Soon**:
+- Multi-line note writing support.
+- A clean and intuitive GUI for better user experience.
+
+
 ## ✨ Features
 
 - **Create New Notes**: Create and save new text notes with a title.
@@ -101,3 +106,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 For any issues or questions, please open an issue on the [GitHub repository](https://github.com/yourusername/note-manager/issues).
 
 ---
+
+## 🖥️ Screenshots
+
+### Main Menu
