@@ -70,7 +70,7 @@ All notes are stored in the `notes/` directory within the project root. Each not
    ```
 2. Navigate to the project directory:
    ```bash
-   cd note-manager
+   cd ByteNote
    ```
 3. Build the project:
    ```bash
@@ -78,7 +78,7 @@ All notes are stored in the `notes/` directory within the project root. Each not
    ```
 4. Run the application:
    ```bash
-   java -jar target/note-manager.jar
+   java -jar target/ByteNote.jar
    ```
 
 ---
