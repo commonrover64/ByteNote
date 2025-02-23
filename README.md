@@ -66,19 +66,19 @@ All notes are stored in the `notes/` directory within the project root. Each not
 
 1. Clone the repository:
    ```bash
-   https://github.com/commonrover64/ByteNote.git
+   git clone https://github.com/commonrover64/ByteNote.git
    ```
 2. Navigate to the project directory:
    ```bash
    cd ByteNote
    ```
-3. Build the project:
+3. Compile the Java files:
    ```bash
-   mvn clean package
+   javac src/*.java
    ```
 4. Run the application:
    ```bash
-   java -jar target/ByteNote.jar
+   java -cp src Main
    ```
 
 ---
